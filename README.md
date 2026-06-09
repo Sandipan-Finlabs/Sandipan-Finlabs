@@ -94,36 +94,6 @@
 
 ---
 
-# 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/sandipan-malick/QuickNotes">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sandipan-malick&repo=QuickNotes&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/sandipan-malick/Ecommerce-Store">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sandipan-malick&repo=Ecommerce-Store&theme=tokyonight&hide_border=true"/>
-</a>
-
-</div>
-
-> ⚠️ Replace `QuickNotes` and `Ecommerce-Store` with your actual repository names.
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=sandipan-malick&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=sandipan-malick&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 # 📚 Currently Learning
 
 ```yaml
