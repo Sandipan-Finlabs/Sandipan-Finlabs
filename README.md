@@ -95,29 +95,6 @@
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=sandipan-malick&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=sandipan-malick&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sandipan-malick&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-
 # 📚 Currently Learning
 
 ```yaml
