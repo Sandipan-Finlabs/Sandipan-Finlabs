@@ -1,3 +1,5 @@
+# 🚀 Featured Projects
+
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&pause=1000&color=00C853&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Sandipan+Malick;Flutter+Trainee+at+Finlabs+India;Full+Stack+Developer;B.Tech+CSE+(Data+Science);Always+Learning+New+Technologies+🚀" />
