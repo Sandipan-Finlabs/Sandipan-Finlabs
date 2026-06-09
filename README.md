@@ -152,11 +152,11 @@ Architecture:
 # 📈 Coding Journey
 
 ```text
-Flutter      ███████████░░░░░ 70%
-React JS     ████████████░░░░ 75%
-Node JS      ██████████░░░░░░ 65%
-Java         █████████████░░░ 80%
-MongoDB      ██████████░░░░░░ 65%
+Flutter      ███████████      70%
+React JS     ████████████     75%
+Node JS      ██████████       65%
+Java         █████████████    80%
+MongoDB      ██████████       65%
 ```
 
 ---
