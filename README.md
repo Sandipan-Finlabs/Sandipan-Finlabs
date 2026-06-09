@@ -2,13 +2,11 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&pause=1000&color=00C853&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Sandipan+Malick;Flutter+Trainee+at+Finlabs+India;Full+Stack+Developer;B.Tech+CSE+(Data+Science);Always+Learning+New+Technologies+🚀" />
-
-<br>
-
+<a href="https://github.com/Sandipan-Finlabs">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sandipan-Finlabs&repo=Sandipan-Finlabs&theme=tokyonight&hide_border=true"/>
+</a>
 
 </div>
-
 ---
 
 # 💫 About Me
