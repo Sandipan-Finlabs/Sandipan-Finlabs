@@ -2,10 +2,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=32&pause=1000&color=00C853&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Sandipan+Malick;Flutter+Trainee+at+Finlabs+India;Full+Stack+Developer;B.Tech+CSE+(Data+Science);Always+Learning+New+Technologies+🚀" />
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=sandipan-malick&label=Profile+Views&color=00C853&style=for-the-badge"/>
-
 <br><br>
 
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
