@@ -24,7 +24,7 @@
 
 🚀 Building Real-World Web & Mobile Applications
 
-📍 Barasat, West Bengal, India
+📍 Haripal, Hooghly, West Bengal
 
 ☕ Fun Fact: I turn coffee into code.
 
