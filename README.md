@@ -4,7 +4,6 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=sandipan-malick&label=Profile+Views&color=00C853&style=for-the-badge"/>
 
 </div>
 
