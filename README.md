@@ -1,57 +1,94 @@
-# Sandipan-Malick
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&pause=1000&color=00C853&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Sandipan+Malick;Flutter+Trainee+at+Finlabs+India;Full+Stack+Developer;B.Tech+CSE+(Data+Science);Always+Learning+New+Technologies+🚀" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=sandipan-malick&label=Profile+Views&color=00C853&style=for-the-badge"/>
+
+</div>
+
+---
+
+# 💫 About Me
+
+<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+🎓 Final Year B.Tech CSE (Data Science)
+
+🏢 Flutter Trainee at Finlabs India Pvt. Ltd.
+
+💻 Passionate about Full Stack Development & Mobile Apps
+
+🌱 Currently Learning Flutter, Firebase & Clean Architecture
+
+🚀 Building Real-World Web & Mobile Applications
+
+📍 Barasat, West Bengal, India
+
+☕ Fun Fact: I turn coffee into code.
+
+---
+
+# 🌐 Connect With Me
 
 <div align="center">
 
-# Hi 👋, I'm Sandipan Malick
-
-### Flutter Trainee at Finlabs India Pvt. Ltd.
-### B.Tech CSE (Data Science) | Full Stack Developer | Flutter Enthusiast
-
 <a href="https://www.linkedin.com/in/sandipan-malick">
-<img src="https://img.shields.io/badge/LinkedIn-00A84C?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:malicksandipan44@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-00A84C?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+# 💻 Tech Stack
 
-🎓 Final-Year B.Tech Student in Computer Science & Engineering (Data Science)
+<div align="center">
 
-🏢 Currently working as a Flutter Trainee at Finlabs India Pvt. Ltd.
+### Languages
 
-💻 Passionate about Full Stack Web Development and Mobile App Development
+<img src="https://skillicons.dev/icons?i=java,javascript,dart,html,css"/>
 
-🌱 Currently Learning:
-- Flutter
-- Dart
-- MERN Stack
-- REST APIs
-- System Design
+### Frontend
 
-🚀 Interested in:
-- Mobile Application Development
-- Full Stack Development
-- Open Source Contribution
+<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind"/>
 
-📍 Barasat, West Bengal, India
+### Mobile
+
+<img src="https://skillicons.dev/icons?i=flutter,dart"/>
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+
+### Database
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
+
+</div>
 
 ---
 
-## 🚀 Current Projects
+# 🚀 Current Projects
 
-### 📱 Flutter Projects
+### 📱 Flutter
+
 - Expense Tracker App
 - Weather App
 - ToDo App
-- Fintech Mobile Applications
+- FinTech Mobile Apps
 
-### 🌐 Web Development Projects
+### 🌐 Web Development
+
 - QuickNotes MERN Application
 - OTP Authentication System
 - Flipkart Clone
@@ -59,100 +96,75 @@
 
 ---
 
-## 💻 Tech Stack
+# 📊 GitHub Analytics
 
-### Languages
+<div align="center">
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,javascript,dart,html,css" />
-</p>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=sandipan-malick&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-### Frontend
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=sandipan-malick&theme=tokyonight&hide_border=true"/>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind" />
-</p>
-
-### Mobile Development
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=flutter,dart" />
-</p>
-
-### Backend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### Database
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
-### Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
+</div>
 
 ---
 
-## 📊 GitHub Statistics
+# 📈 Contribution Graph
 
-| GitHub Stats | GitHub Streak |
-|--------------|---------------|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sandipan-malick&show_icons=true&theme=transparent&title_color=ffffff&text_color=16DB65&icon_color=16DB65) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sandipan-malick&theme=transparent&ring=16DB65&fire=16DB65) |
+<div align="center">
 
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sandipan-malick&theme=tokyo-night&hide_border=true"/>
 
-## 📈 Contribution Graph
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sandipan-malick&theme=github-compact&bg_color=00000000)](https://github.com/sandipan-malick)
+</div>
 
 ---
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=sandipan-malick&theme=algolia&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center">
 
----
+<img src="https://github-profile-trophy.vercel.app/?username=sandipan-malick&theme=algolia&no-frame=true&row=1&column=7"/>
 
-## 📚 Currently Learning
-
-✔ Flutter Framework
-
-✔ Dart Programming
-
-✔ State Management (Provider, Riverpod)
-
-✔ REST API Integration
-
-✔ Firebase
-
-✔ Clean Architecture
+</div>
 
 ---
 
-## 📫 Connect With Me
+# 📚 Currently Learning
 
-<p align="center">
-<a href="https://www.linkedin.com/in/sandipan-malick">
-<img src="https://img.shields.io/badge/LinkedIn-00A84C?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+```yaml
+Flutter:
+  - State Management
+  - Riverpod
+  - Provider
 
-<a href="mailto:malicksandipan44@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-00A84C?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
+Backend:
+  - REST APIs
+  - Node.js
+
+Cloud:
+  - Firebase
+
+Architecture:
+  - Clean Architecture
+```
+
+---
+
+# 📈 Coding Journey
+
+```text
+Flutter      ███████████░░░░░ 70%
+React JS     ████████████░░░░ 75%
+Node JS      ██████████░░░░░░ 65%
+Java         █████████████░░░ 80%
+MongoDB      ██████████░░░░░░ 65%
+```
 
 ---
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=sandipan-malick&label=Profile%20Views&color=16DB65)
+### ⚡ "Code. Learn. Build. Repeat."
 
-### Thanks for visiting 🚀
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00C853&height=120&section=footer"/>
 
 </div>
